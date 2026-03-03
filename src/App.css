@@ -1,0 +1,12 @@
+#Hero{
+  height: 100vh;
+  width: 100vw;
+}
+#Hero img{
+  height: 100vh;
+  width: 100vw;
+}
+#Products img{
+ width: 100%; 
+height: 40vh;
+}
